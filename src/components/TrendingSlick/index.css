@@ -1,0 +1,17 @@
+.img-element {
+  height: 170px;
+  width: 254px;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+.trending-slick-list {
+  width: 80%;
+}
+.slick-loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 170px;
+  width: 1109px;
+}
