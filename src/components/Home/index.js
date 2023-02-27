@@ -1,21 +1,12 @@
 import {Component} from 'react'
-
 import {Redirect} from 'react-router-dom'
-
 import Loader from 'react-loader-spinner'
-
 import Cookies from 'js-cookie'
-
 import Header from '../Header'
-
 import TrendingSlick from '../TrendingSlick'
-
 import OriginalsSlick from '../OriginalsSlick'
-
 import TopRatedSlick from '../TopRatedSlick'
-
 import Footer from '../Footer'
-
 import './index.css'
 
 const apiStatus = {
